@@ -7,7 +7,7 @@
 - **Accuracy:** 93.3%
 - **AUROC:** 98%
 
-AIReveal was developed using a custom trainer rather than the standard Transformers trainer, as part of the NLP class CSCI 5541 at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/) under the guidance of [Professor James Mooney](https://cs.umn.edu/people/faculty/mooney-james). While the model performs relatively well compared to other approaches in the field, it does encounter challenges with text that is paraphrased—whether by humans or by AI tools.
+AIReveal was developed using a custom trainer rather than the standard Transformers trainer, as part of the NLP class CSCI 5541 at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/) under the guidance of Professor James Mooney(moone174@umn.edu). While the model performs relatively well compared to other approaches in the field, it does encounter challenges with text that is paraphrased—whether by humans or by AI tools.
 
 ## Future Work
 
